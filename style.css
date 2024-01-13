@@ -9,7 +9,10 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: cornsilk;
+    /* background-color: cornsilk; */
+    background-image: url(./img/bg-img.jpg);
+    background-position: center;
+    background-size: cover;
 }
 
 .container{
